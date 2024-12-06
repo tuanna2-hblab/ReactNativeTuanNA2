@@ -1,4 +1,4 @@
-package com.reactnativetuanna2
+package com.companyname.reactnativecli
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

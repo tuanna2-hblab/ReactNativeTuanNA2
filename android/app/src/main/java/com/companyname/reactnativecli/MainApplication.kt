@@ -1,4 +1,4 @@
-package com.reactnativetuanna2
+package com.companyname.reactnativecli
 
 import android.app.Application
 import com.facebook.react.PackageList
